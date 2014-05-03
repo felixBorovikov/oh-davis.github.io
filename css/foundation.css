@@ -2013,11 +2013,9 @@ img {
     color: white;
     font-family: Futura;
 }
-.btn {
+.btn1 {
     background-clip: padding-box;
-    /*
-    background-color: #7CFFC0;
-    */
+    background-color: #24C0EB;
     border-radius: 30px;
     cursor: pointer;
     display: inline-block;
@@ -2032,6 +2030,24 @@ img {
     
     
 }
+.btn2 {
+    background-clip: padding-box;
+    background-color: #7AAB56;
+    border-radius: 30px;
+    cursor: pointer;
+    display: inline-block;
+    font-size:  1em;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    overflow: hidden;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    
+}
+
 
 
 
